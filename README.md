@@ -28,12 +28,21 @@ This assessment analyses the tips dataset using Python package Seaborn and Jupyt
 # References
 
 Tips dataset - https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
+
 Seaborn - https://seaborn.pydata.org/
+
 Analyze the data through data visualization using Seaborn - https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
+
 Scatterplot - https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+
 lmplot - https://seaborn.pydata.org/generated/seaborn.lmplot.html
+
 Pairplot - https://seaborn.pydata.org/generated/seaborn.pairplot.html
+
 Boxplot - seaborn.boxplot
+
 Data Visualization with Python and Seaborn — Part 4 - https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-4-9b0119887130
+
 A SIMPLE INTRODUCTION TO PYTHON’S SEABORN LIBRARY: GETTING STARTED WITH DATA VISUALIZATION https://analyticsindiamag.com/a-simple-introduction-to-pythons-seaborn-library/
+
 Jointplot - https://seaborn.pydata.org/generated/seaborn.jointplot.html
